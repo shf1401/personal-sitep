@@ -448,7 +448,7 @@ export default function App() {
 
           <p className="hello">سلام، من</p>
           <h1>
-            سارا <span className="gradient-text">هاشمی</span> هستم
+            سارا <span className="gradient-text">هاشمی فرهود</span> هستم
           </h1>
 
           <h2 className="role">
